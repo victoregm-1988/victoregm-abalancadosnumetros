@@ -252,8 +252,8 @@ export const GameScreen: React.FC<GameScreenProps> = ({ gameState, players, crea
                 </div>
             );
         } else {
-            const n1 = equation.hiddenPart === 'num1' ? '?' : equation.num1;
-            const n2 = equation.hiddenPart === 'num2' ? '?' : equation.num2;
+            const n1 = equation.hiddenPart === 'num1' ? '□' : equation.num1;
+            const n2 = equation.hiddenPart === 'num2' ? '□' : equation.num2;
             leftBalanceContent = `${n1} ? ${n2}`;
         }
     }
