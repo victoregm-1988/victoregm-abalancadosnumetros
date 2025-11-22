@@ -1,0 +1,5 @@
+{
+  "name": "A Balança dos Números",
+  "description": "Um jogo educacional para dois jogadores focado em desenvolver o pensamento algébrico em crianças, de acordo com as competências da BNCC (EF05MA10, EF05MA11). Os jogadores se revezam criando e resolvendo equações para equilibrar uma balança.",
+  "requestFramePermissions": []
+}
